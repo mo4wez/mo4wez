@@ -1,4 +1,5 @@
-![image](https://github.com/mo4wez/mo4wez/assets/44638454/868c2c81-d20e-4a20-b8ba-908d4e40366d)### Hi there 👋 I'm Moawez Dehghani
+### Hi there 👋 I'm Moawez Dehghani
+
 ```js
 const response = {
   status: 202,
