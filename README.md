@@ -15,8 +15,9 @@ const response = {
 ```
 
 > I am `Back-end` Developer.
->> I Love `Django`.
+
 > `Js` is insane.
+>> I Love `Django`.
 
 ## My Activity
 <img src="https://github-readme-stats.vercel.app/api?username=mo4wez&show_icons=true&theme=dark">
