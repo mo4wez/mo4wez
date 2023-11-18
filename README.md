@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Moawez Dehghani
+### Hi there 👋 I'm Moawezz Dehghani
 
 ```js
 const response = {
   status: 202,
   data: {
-    name: "Moawez Dehghani",
+    name: "Moawezz Dehghani",
     nickname: "</moawezz>",
     birthDay: "09 Apr",
     skills: ".py, .js",
@@ -16,7 +16,7 @@ const response = {
 
 > I am `Back-end` Developer.
 >> I Love `Django`.
-
+>> `Js` is insane.
 
 ## My Activity
 <img src="https://github-readme-stats.vercel.app/api?username=mo4wez&show_icons=true&theme=dark">
