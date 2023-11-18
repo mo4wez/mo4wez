@@ -4,11 +4,11 @@ const response = {
   status: 202,
   data: {
     name: "Moawez Dehghani",
-    nickname: "</Ctrl+Z>",
-    birthDay: "9 Apr",
+    nickname: "</moawezz>",
+    birthDay: "09 Apr",
     skills: ".py, .js",
     university: "CFU Kerman",
-    hobbies: "coding, scraping, movies, books",
+    hobbies: "coding, movies, books",
   }
 };
 ```
