@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=mo4wez&show_icons=true&theme=dark
+<img src="https://github-readme-stats.vercel.app/api?username=mo4wez&show_icons=true&theme=dark">
 <!--
 **mo4wez/mo4wez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
