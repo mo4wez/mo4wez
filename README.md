@@ -9,7 +9,7 @@ const response = {
     name: "Moawezz Dehghani",
     nickname: "</moawezz>",
     birthDay: "09 Apr",
-    skills: ".py, .js",
+    skills: "python, django, js",
     university: "CFU Kerman",
     hobbies: "coding, movies, books",
   }
