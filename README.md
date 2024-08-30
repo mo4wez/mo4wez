@@ -6,7 +6,7 @@
 const response = {
   status: 202,
   data: {
-    name: "Moawezz Dehghani",
+    name: "Moawezz Baloch",
     nickname: "</moawezz>",
     birthDay: "09 Apr",
     skills: "python, django, flutter",
