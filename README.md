@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Moawezz Dehghani
+### Hi there 👋
 
 > I am `Backend` Developer.
 
